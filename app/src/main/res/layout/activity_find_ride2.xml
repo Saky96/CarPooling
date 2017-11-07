@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.parleen.carpooling.FindRideActivity2">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="dmsdkcmsdkcmds"
+        android:id="@+id/txt_main3_name"
+        android:textColor="#0f059f"
+        android:textStyle="bold"/>
+
+
+    <TextView
+        android:layout_marginTop="30dp"
+        android:layout_below="@+id/txt_main3_name"
+        android:layout_width="match_parent"
+        android:text="vfvkfdmvkfdvm"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_main3_id"
+        android:textColor="#c1075e"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_main3_sal"
+        android:text="cmvkdmvkfdmfvfdvf"
+        android:layout_below="@+id/txt_main3_id"
+        android:textColor="#c1075e"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_main4_sal"
+        android:text="cmvkdmvkfdmfvfdvf"
+        android:layout_below="@+id/txt_main3_id"
+        android:textColor="#c1075e"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_main5_sal"
+        android:text="cmvkdmvkfdmfvfdvf"
+        android:layout_below="@+id/txt_main4_sal"
+        android:textColor="#c1075e"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_main6_sal"
+        android:text="cmvkdmvkfdmfvfdvf"
+        android:layout_below="@+id/txt_main5_sal"
+        android:textColor="#c1075e"
+        android:textStyle="bold"/>
+
+
+</RelativeLayout>
